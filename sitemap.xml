@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.analisistem.com/contacto/</loc>
+<loc>https://www.analisistem.com//contacto/</loc>
 </url>
 <url>
-<loc>https://www.analisistem.com/tecnologia/</loc>
+<loc>https://www.analisistem.com//tecnologia/</loc>
 </url>
 <url>
-<loc>https://www.analisistem.com/nosotros/</loc>
+<loc>https://www.analisistem.com//nosotros/</loc>
 </url>
 <url>
-<loc>https://blog.analisistem.com/</loc>
-</url>
-<url>
-<loc>https://www.analisistem.com/</loc>
+<loc>https://www.analisistem.com//</loc>
 </url>
 </urlset>
